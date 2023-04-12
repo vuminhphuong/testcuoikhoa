@@ -8,4 +8,4 @@ function numberOneTriangle(number) {
     }
 }
 
-numberOneTriangle(5);
+numberOneTriangle(4);
